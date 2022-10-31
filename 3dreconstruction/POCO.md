@@ -17,3 +17,6 @@
     - directly generate a mesh with neural network -> difficult
     - template deformation -> limited
 - some forms of implicit representitations can only provide weaker geometrical and topological information
+- More success has been achived with explicitly-designed implicit representations, where the network encodes R * 3 => R(a volume ocupancy or a distance to surface)
+    - At mesh generation stage, discretization only occurs(Marching Cubes)
+- Recent works obtain a form of translational equivalence via CNN
