@@ -8,11 +8,18 @@
         - Advanced [EVA3D](https://hongfz16.github.io/projects/EVA3D.html)
     - [MotionDiffusion](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
     - [DreamFusion](https://github.com/ashawkey/stable-dreamfusion)
+    - [ICON](https://github.com/YuliangXiu/ICON)
+        - cannot reconstruct anime character/cannot divide into species
 - Auto Rigging
     - [RigNet](https://zhan-xu.github.io/rig-net/)
 - 3d semantic segmentation/classification
     - [RandLANet](https://github.com/aRI0U/RandLA-Net-pytorch)
     - [BEVMap with Large Scenes](https://github.com/zouzhenhong98/SensatUrban-BEV-Seg3D)
+    - [OpenMMLAB](https://mmdetection3d.readthedocs.io/en/latest/getting_started.html)
+- Anime Image generation
+    - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
+        - 数十枚の映像だけで追加学習が可能(https://note.com/lisa_s/n/n5fb5468e8998)
+
 
 ## requirements
 - 16GB/32GB Memory GPU on AWS Cloud...
